@@ -1,2 +1,1 @@
 # manipulação do arquivo JSON
-
