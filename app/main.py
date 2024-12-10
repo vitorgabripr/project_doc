@@ -41,7 +41,7 @@ class Menu:
 
 def exibir_menu():
     print("Menu:")
-    print("1. Ler arquivo JSON")
+    print("1. Ler o arquivo JSON")
     print("2. Salvar dados no arquivo JSON")
     print("3. Adicionar URL e título à documentação")
     print("4. Sair")
